@@ -1,0 +1,20 @@
+{
+    "name": "rogerliao/phalcon",
+    "type": "library",
+    "description": "A PHP web framework inspired by the Koa concept, adopting its middleware design pattern for building modern and flexible web applications and APIs.",
+    "autoload": {
+        "psr-4": {
+            "Phalcon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Liao Kun Yong",
+            "email": "roger_liao@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "license": "MIT"
+}
